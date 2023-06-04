@@ -1,7 +1,7 @@
 .folder {
   padding-inline-start: 1.5em;
   text-decoration-line: none;
-  background-image: url(&quot;/ms-links-index/folder.png&quot;);
+  background-image: url("/ms-links-index/folder.png");
   background-position: left top;
   background-repeat: no-repeat
 }
@@ -9,7 +9,7 @@
 .file {
   padding-inline-start: 1.5em;
   text-decoration-line: none;
-  background-image: url(&quot;/ms-links-index/folder.png&quot;);
+  background-image: url("/ms-links-index/folder.png");
   background-position: left top;
   background-repeat: no-repeat
 }
